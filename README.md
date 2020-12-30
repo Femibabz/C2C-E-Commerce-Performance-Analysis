@@ -1,7 +1,7 @@
 # Capstone_Three
 C2C Business Analytics
 
-This data wrangling was to prepare the dataset on a C2C e-commerce website obtained from Kaggle for modelling.
+This project is to work on the dataset of a C2C e-commerce website obtained from Kaggle.
 The tasks to be completed include customer segmenttation
 Identify factors that could influence sales from the e-commerce platform
 Identify lifetime value of customers on the e-commerce platform
